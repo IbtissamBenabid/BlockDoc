@@ -1,6 +1,6 @@
 # Document Certification System using Blockchain
 
-A blockchain-based solution for document certification that ensures authenticity, integrity, and traceability of critical documents. This system allows users to certify documents by storing their cryptographic hashes on a blockchain network, enabling tamper-proof verification of document authenticity.
+A blockchain-based solution for document certification that ensures authenticity, integrity, and traceability of critical documents.
 
 ## Features
 
