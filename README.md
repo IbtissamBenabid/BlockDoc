@@ -1,6 +1,7 @@
 # Document Certification System using Blockchain
 
 A blockchain-based solution for document certification that ensures authenticity, integrity, and traceability of critical documents.
+following this tutorial : https://www.google.com/url?q=https://web.archive.org/web/20201222142511/https:/developer.ibm.com/technologies/blockchain/tutorials/develop-a-blockchain-application-from-scratch-in-python/%234-implement-a-proof-of-work-algorithm&sa=D&source=apps-viewer-frontend&ust=1748880770513987&usg=AOvVaw03rujBc9TtyltAfaJ3HgsW&hl=fr
 
 ## Features
 
